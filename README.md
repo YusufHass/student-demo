@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This react project displays UI for adding student list into a mongodb database with using spring boot as a backend
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
